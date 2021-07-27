@@ -1,0 +1,22 @@
+{
+  "name": "my-stack-gqsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabrina253/my-stack-gqsp.git"
+  },
+  "author": "Sabrina",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Sabrina253/my-stack-gqsp/issues"
+  },
+  "homepage": "https://github.com/Sabrina253/my-stack-gqsp#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
